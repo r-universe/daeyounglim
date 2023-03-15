@@ -1,5 +1,9 @@
 [
   {
+    "package": "adaptIVPT",
+    "oncran": true
+  },
+  {
     "package": "metapack",
     "oncran": true
   }
