@@ -5,6 +5,3 @@
 [submodule "adaptIVPT"]
 	path = adaptIVPT
 	url = https://github.com/daeyounglim/adaptivpt
-[submodule "metapack"]
-	path = metapack
-	url = https://github.com/daeyounglim/metapack
